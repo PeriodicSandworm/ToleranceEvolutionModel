@@ -1,0 +1,13 @@
+Metadata:
+Drug Type: biostatic
+C = 20
+alphatau = 0.7
+t_mic = 4.2796
+period = 6
+end = 150
+K = 10000000.0
+gamma = 1
+N0 = 100
+g = 1
+d = 0.4
+lam = 0.9
